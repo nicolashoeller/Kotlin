@@ -7,6 +7,7 @@ fun main() {
     println(firstNum)
     println(secondNum)
     println(firstNum*secondNum)
+    println(changeNum)
     changeNum = 80
     println(changeNum)
     println(pi)
