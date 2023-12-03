@@ -5,6 +5,7 @@ fun main() {
     }
     print("\n\n")
     for (index in myArray.indices) {
-        println(index)
+        print(index)
+        print(", ")
     }
 }
